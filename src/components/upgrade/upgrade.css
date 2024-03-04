@@ -1,0 +1,23 @@
+.upgrade-container {
+    margin-left: 30px;
+    margin-top: 40px;
+    padding: 0 15px;
+    color: #FFFFFF;
+    background-color: #2B2B2B;
+    border-radius: 16px;
+    height: 60px;
+    /* width: 1250px; */
+    margin-right: 110px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+p {
+    margin: 0;
+}
+.upgrade-container button {
+    padding: 12px 24px;
+    border-radius: 250px;
+    background-color: #14B866;
+    border: none;
+}

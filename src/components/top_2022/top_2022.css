@@ -1,0 +1,18 @@
+.top-2022-container {
+    position: relative;
+    margin-left: 30px;
+    color:white;
+}
+.top-2022-container h2 {
+    margin-bottom: 5px;
+}
+.top-2022-container p {
+    margin-bottom: 20px;
+}
+.top-2022-games {
+    display: flex;
+    overflow-x: scroll;
+}
+.top-2022-games::-webkit-scrollbar {
+    display: none;
+}

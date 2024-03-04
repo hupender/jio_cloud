@@ -1,0 +1,12 @@
+.top-game-container {
+    position: relative;
+    margin-left: 30px;
+    color: white;
+}
+.list-container {
+    display: flex;
+    overflow-x: scroll;
+}
+.list-container::-webkit-scrollbar{
+    display: none;
+}

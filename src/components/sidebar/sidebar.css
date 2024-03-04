@@ -1,0 +1,34 @@
+.sidebar {
+  box-sizing: content-box;
+  width: 6%;
+  /* width: 88px; */
+  height: 100%;
+  background: #141414;
+  /* background-color: red; */
+  position: fixed;
+}
+
+.header {
+  height: 72px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.section {
+  /* padding: 64px 24px; */
+  padding: 64px 0;
+}
+.section1 {
+  margin-bottom: 50px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.section2 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.icon {
+  padding: 8px 0;
+}

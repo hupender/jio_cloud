@@ -1,0 +1,23 @@
+.recommended-container {
+    color: white;
+    position: relative;
+    margin-left: 30px;
+}
+.recomm-container {
+    display: flex;
+    overflow: auto;
+}
+.recomm-container::-webkit-scrollbar {
+    display: none;
+}
+.recomm-container img {
+    margin-right: 20px;
+}
+.recommended-container h2{
+    margin-bottom: 5px;
+    padding-bottom: 0;
+}
+.recommended-container p {
+    /* margin-bottom: 50px; */
+    padding-bottom: 20px;
+}

@@ -1,0 +1,15 @@
+.continue-container {
+    color: white;
+    position: relative;
+    margin-left: 30px;
+}
+.cont-container {
+    display: flex;
+    overflow: auto;
+}
+.cont-container::-webkit-scrollbar {
+    display: none;
+}
+.cont-container img {
+    margin-right: 20px;
+}

@@ -1,0 +1,25 @@
+.button-card {
+    border:2px #5A5A5A solid;
+    border-radius: 24px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    /* background: linear-gradient(#14141400,#141414); */
+    background-color: #2B2B2B;
+    min-width: 250px;
+    height: 120px;
+    color: #FFFFFF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 1;
+}
+.button-card span {
+    z-index: 0;
+}
+
+.name-class {
+    font-size: 22px;
+    font-weight: 600;
+}
+
+

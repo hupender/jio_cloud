@@ -1,0 +1,33 @@
+.get-list-conatiner {
+    margin-bottom: 20px;
+    display: flex;
+    overflow-x: scroll;
+}
+.get-list-conatiner::-webkit-scrollbar {
+    display: none;
+}
+.get-list-conatiner h1 {
+    margin: 0;
+    padding: 0;
+}
+
+
+.list-container1 {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    background-color: white;
+}
+.list-container1 form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: fit-content;
+    justify-content: center;
+    padding: 50px;
+    background-color: antiquewhite;
+}
+.list-container1 button{
+    margin-top: 5px;
+    background-color: blue;
+}

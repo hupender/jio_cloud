@@ -1,0 +1,21 @@
+.popChar-container {
+    position: relative;
+    margin-left: 30px;
+    color: white;
+    margin-bottom: 20px;
+}
+.popChar-container h2 {
+    margin-bottom: 5px;
+    padding-bottom: 0;
+}
+.popChar-container p { 
+    margin-bottom: 20px;
+}
+
+.popChar-games-container {
+    display: flex;
+    overflow-x: scroll;
+}
+.popChar-games-container::-webkit-scrollbar {
+    display: none;
+}

@@ -1,0 +1,17 @@
+.explore-games-container {
+    position: relative;
+    color: #FFFFFF;
+    margin-left: 30px;
+    margin-top: -250px;
+    z-index: 3;
+}
+.explore-games-container h2 {
+    font-size: 24px;
+}
+.btn-container {
+    display: flex;
+    overflow-x: auto;
+}
+.btn-container::-webkit-scrollbar {
+    display: none;
+}
